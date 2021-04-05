@@ -1,0 +1,11 @@
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\bin\Debug\netstandard2.0\GFT_Test_Library.dll.config
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\bin\Debug\netstandard2.0\GFT_Test_Library.deps.json
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\bin\Debug\netstandard2.0\GFT_Test_Library.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\bin\Debug\netstandard2.0\GFT_Test_Library.pdb
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\obj\Debug\netstandard2.0\GFT_Test_Library.AssemblyInfoInputs.cache
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\obj\Debug\netstandard2.0\GFT_Test_Library.AssemblyInfo.cs
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\obj\Debug\netstandard2.0\GFT_Test_Library.csproj.CopyComplete
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\obj\Debug\netstandard2.0\GFT_Test_Library.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Library\obj\Debug\netstandard2.0\GFT_Test_Library.pdb

@@ -1,0 +1,12 @@
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\GFT_Test_Service.dll.config
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\GFT_Test_Service.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\GFT_Test_Service.pdb
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\GFT_Test_Library.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\System.Data.SqlClient.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\GFT_Test_Library.pdb
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\GFT_Test_Library.dll.config
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\bin\System.Data.SqlClient.xml
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\obj\Debug\GFT_Test_Service.csprojAssemblyReference.cache
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\obj\Debug\GFT_Test_Service.csproj.CopyComplete
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\obj\Debug\GFT_Test_Service.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Test_Service\obj\Debug\GFT_Test_Service.pdb

@@ -1,0 +1,30 @@
+To run the SQL Solution:
+
+
+1 - Create all procedures(3) using the scripts in "Scripts" folder (I have done my test in a local database "GFT_Test_DB"):
+	 - Create_Table_Category
+	 - Create_Table_Sector
+	 - Create_Table_TradeCategory	 
+
+* IS NOT NECESSARY ITEM 1 IF THE APP TEST WAS COMPLETED(already created)	 
+	 
+	 
+2 - Create type to insert trade parameters values using the script in "Scripts" folder:
+	- Create_Type_tbTrade
+
+3 - CREATE PROCEDURE using the script in "Scripts" folder:
+	- Create_Checking_TradeCategories
+
+
+4 - Run the following command to get Categories:
+
+----------------------------------------------
+--EXECUTE TO GET CATEGORIES-------------------
+----------------------------------------------
+DECLARE @TBTRADE AS tbTrade;
+INSERT INTO @TBTRADE VALUES(2000000, 'Private');
+INSERT INTO @TBTRADE VALUES(400000, 'Public');
+INSERT INTO @TBTRADE VALUES(500000, 'Public');
+INSERT INTO @TBTRADE VALUES(3000000, 'Public');
+
+EXEC dbo.SP_GFT_CHECK_TRADECATEGORIES @TBTRADE

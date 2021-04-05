@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ab553573-ba35-48b0-b308-6ce415bfd76d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55668/TradeCategoryService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TradeCategoryService.xsd" MetadataType="Schema" ID="cc32957b-3661-46b6-baa3-f5766c7d14c3" SourceId="1" SourceUrl="http://localhost:55668/TradeCategoryService.svc?xsd=xsd3" />
+    <MetadataFile FileName="TradeCategoryService1.xsd" MetadataType="Schema" ID="70bbfdff-3891-41a6-9f51-8c118b235eae" SourceId="1" SourceUrl="http://localhost:55668/TradeCategoryService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TradeCategoryService.disco" MetadataType="Disco" ID="2e948aed-5ef9-4071-b593-5e5983469fcc" SourceId="1" SourceUrl="http://localhost:55668/TradeCategoryService.svc?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="bb4ddf00-5ef7-46f7-96f7-35ce744eb0ed" SourceId="1" SourceUrl="http://localhost:55668/TradeCategoryService.svc?wsdl" />
+    <MetadataFile FileName="TradeCategoryService2.xsd" MetadataType="Schema" ID="dc44dfe1-6244-4ce9-b528-5d6049c278ce" SourceId="1" SourceUrl="http://localhost:55668/TradeCategoryService.svc?xsd=xsd2" />
+    <MetadataFile FileName="TradeCategoryService3.xsd" MetadataType="Schema" ID="2f6c8507-b639-45bb-8c0e-89757747a1c0" SourceId="1" SourceUrl="http://localhost:55668/TradeCategoryService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

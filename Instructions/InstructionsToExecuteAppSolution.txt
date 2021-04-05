@@ -1,0 +1,19 @@
+To run the application:
+
+1 - Create all procedures(3) using the scripts in "Scripts" folder (I have done my test in a local database "GFT_Test_DB"):
+	 - Create_Table_Category
+	 - Create_Table_Sector
+	 - Create_Table_TradeCategory
+
+2 - Run the creation:
+	- EXEC SP_GFT_CREATE_TABLE_CATEGORY 1
+	- EXEC SP_GFT_CREATE_TABLE_SECTOR 1
+	- EXEC SP_GFT_CREATE_TABLE_TRADECATEGORY 1
+
+3- Open Solution from GFT_Test\GFT_Solution_Test
+
+4 - Change Web.Config connection string from GFT_Test_Service to your SQL connection string.
+
+5- Run the GFT_Test_Client project.
+	 
+* If the SOAP error happens when try to get categories, please update the service referente in this project.

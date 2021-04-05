@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GFT_Test_Service.Service1" CodeBehind="TradeCategoryService.svc.cs" %>

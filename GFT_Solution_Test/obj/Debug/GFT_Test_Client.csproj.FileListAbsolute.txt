@@ -1,0 +1,12 @@
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\bin\Debug\GFT_Solution_Test.exe.config
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\bin\Debug\GFT_Solution_Test.exe
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\bin\Debug\GFT_Solution_Test.pdb
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\obj\Debug\GFT_Solution_Test_Client_Client.TradesForm.resources
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\obj\Debug\GFT_Solution_Test.Properties.Resources.resources
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\obj\Debug\GFT_Test_Client.csproj.GenerateResource.cache
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\obj\Debug\GFT_Test_Client.csproj.CopyComplete
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\obj\Debug\GFT_Solution_Test.exe
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\obj\Debug\GFT_Solution_Test.pdb
+C:\Users\dolly\Documents\GFT_Test\GFT_Solution_Test\obj\Debug\GFT_Test_Client.csprojAssemblyReference.cache
